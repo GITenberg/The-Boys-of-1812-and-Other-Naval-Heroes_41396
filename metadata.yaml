@@ -1,0 +1,36 @@
+_repo: The-Boys-of-1812-and-Other-Naval-Heroes_41396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Soley, James Russell
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '41160'
+    url: http://www.gutenberg.org/2009/agents/41160
+description: ''
+gutenberg_issued: '2012-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Naval operations'
+- !lcc 'E151'
+- !lcsh 'United States. Navy -- History'
+tableOfContents:
+- The beginnings of the Navy -- Biddle and the "Randolph" -- War on the enemy's coast
+  -- Paul Jones's cruises -- Barry and Barney -- Hostilities with France -- Tripoli
+  -- Impressment -- The War of 1812 -- The "Constitution" and the "Guerrière" -- The
+  first sloop action -- Decatur and Bainbridge -- Captain James Lawrence -- The cruise
+  of the "Essex" -- Perry and Lake Erie -- The sloop actions -- Macdonough and Lake
+  Champlain -- Stewart and "Old Ironsides" -- The War with Algiers -- The War with
+  Mexico.
+- 02007193
+title: The Boys of 1812 and Other Naval Heroes
+url: http://www.gutenberg.org/ebooks/41396
