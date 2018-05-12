@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41160'
     url: http://www.gutenberg.org/2009/agents/41160
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41396#The-Boys-of-1812-and-Other-Naval-Heroes
 gutenberg_issued: '2012-11-18'
 gutenberg_type: Text
 identifiers:
